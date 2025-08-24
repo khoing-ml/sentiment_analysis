@@ -1,0 +1,14 @@
+artifact_uri: file:///home/khoi/Code/sentiment_analysis_project/mlruns/0/31127d12398b4cceb94d10acba964d9f/artifacts
+end_time: 1756030958882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31127d12398b4cceb94d10acba964d9f
+run_name: enchanting-crow-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756030953067
+status: 3
+tags: []
+user_id: khoi

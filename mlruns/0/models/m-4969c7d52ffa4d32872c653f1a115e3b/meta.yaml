@@ -1,0 +1,10 @@
+artifact_location: file:///home/khoi/Code/sentiment_analysis_project/mlruns/0/models/m-4969c7d52ffa4d32872c653f1a115e3b/artifacts
+creation_timestamp: 1756034539413
+experiment_id: '0'
+last_updated_timestamp: 1756034541139
+model_id: m-4969c7d52ffa4d32872c653f1a115e3b
+model_type: null
+name: sentiment-model
+source_run_id: bba49f3355644fda8070fca2438d0fa3
+status: 2
+status_message: null

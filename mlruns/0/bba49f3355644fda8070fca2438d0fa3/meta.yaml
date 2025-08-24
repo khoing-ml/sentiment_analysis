@@ -1,0 +1,14 @@
+artifact_uri: file:///home/khoi/Code/sentiment_analysis_project/mlruns/0/bba49f3355644fda8070fca2438d0fa3/artifacts
+end_time: 1756034541141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba49f3355644fda8070fca2438d0fa3
+run_name: aged-cod-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756034534928
+status: 3
+tags: []
+user_id: khoi

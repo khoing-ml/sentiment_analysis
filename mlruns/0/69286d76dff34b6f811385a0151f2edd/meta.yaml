@@ -1,0 +1,14 @@
+artifact_uri: file:///home/khoi/Code/sentiment_analysis_project/mlruns/0/69286d76dff34b6f811385a0151f2edd/artifacts
+end_time: 1756034554964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69286d76dff34b6f811385a0151f2edd
+run_name: rare-skunk-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756034548331
+status: 3
+tags: []
+user_id: khoi

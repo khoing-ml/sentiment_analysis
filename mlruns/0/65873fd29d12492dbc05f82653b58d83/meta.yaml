@@ -1,0 +1,14 @@
+artifact_uri: file:///home/khoi/Code/sentiment_analysis_project/mlruns/0/65873fd29d12492dbc05f82653b58d83/artifacts
+end_time: 1756034386698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65873fd29d12492dbc05f82653b58d83
+run_name: bedecked-mule-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756034380286
+status: 3
+tags: []
+user_id: khoi

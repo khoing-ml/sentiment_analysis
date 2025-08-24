@@ -1,0 +1,33 @@
+artifact_path: file:///home/khoi/Code/sentiment_analysis_project/mlruns/0/models/m-aace8172547040baa95df146e6bb4fae/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.1
+model_id: m-aace8172547040baa95df146e6bb4fae
+model_size_bytes: 225435
+model_uuid: m-aace8172547040baa95df146e6bb4fae
+prompts: null
+run_id: 69286d76dff34b6f811385a0151f2edd
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "review", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-24 11:22:33.230092'
